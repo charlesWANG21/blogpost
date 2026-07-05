@@ -3,8 +3,8 @@ from streamlit_extras.let_it_rain import rain
 
 st.title("This is my blogpost😊")
 
-st.header("Introduction")
-st.subheader("This is subheader!")
+st.header(" My name is Charles Wang")
+st.subheader("This is about my adorable gecko")
 
 st.markdown("""
   My name is Charles, I am a student, and I am in Grade 6. I live in Missisauga, Canada. My hobbies: Hockey, Piano, Reading, Coding, and Gaming.
