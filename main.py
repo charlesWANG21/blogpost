@@ -27,7 +27,7 @@ if st.button('click me'):
 
     )
 
-if st.button('Raining Gecko's'):
+if st.button('Raining Geckos'):
     rain(
         emoji='🦎',
         font_size=60,
