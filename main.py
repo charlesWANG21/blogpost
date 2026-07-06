@@ -7,7 +7,7 @@ st.header(" My name is Charles Wang")
 st.subheader("This is about my adorable gecko")
 
 st.markdown("""
-  My name is Charles, I am a student, and I am in Grade 6. I live in Missisauga, Canada. My hobbies: Hockey, Piano, Reading, Coding, and Gaming.
+  My name is Charles, I am a student, and I am a very happy person! My hobbies: Hockey, Piano, Reading, Coding, and Gaming.
         
             I have a gecko named Gecky🦎🦎🦎🦎🦎🦎🦎🦎🦎🦎, who is really cute and always exporing his tank full of plentiful surprises.
             """)
@@ -22,7 +22,7 @@ if st.button('click me'):
     rain(
         emoji='🎊',
         font_size=50,
-        falling_speed=5,
+        falling_speed=8,
         animation_length="10"
 
     )
