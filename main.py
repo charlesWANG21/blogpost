@@ -27,6 +27,15 @@ if st.button('click me'):
 
     )
 
+if st.button('Raining Gecko's'):
+    rain(
+        emoji='🦎',
+        font_size=60,
+        falling_speed=12,
+        animation_length="5"
+
+    )
+
 st.image('https://i.pinimg.com/originals/aa/82/0f/aa820f504b0e23cbd861e2fb4add413c.jpg')
 st.image('https://i.redd.it/200zveum3oj91.gif')
 
